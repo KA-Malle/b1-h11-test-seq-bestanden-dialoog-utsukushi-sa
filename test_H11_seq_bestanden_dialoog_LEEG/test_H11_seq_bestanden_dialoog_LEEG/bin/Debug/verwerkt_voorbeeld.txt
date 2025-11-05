@@ -1,0 +1,8 @@
+"Lille",18,6
+"Schilde",16,6
+"Turnhout",17,6
+"Geel",20
+"Mol",19,6
+"Deurne",20,2
+"Wilrijk",21,6
+"Herentals",20,8
